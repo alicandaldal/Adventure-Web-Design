@@ -1,3 +1,3 @@
-# HTML AND CSS USING ADVENTURE RESPONSIVE WEB DESIGN
+## HTML AND CSS USING ADVENTURE RESPONSIVE WEB DESIGN
 
-![image info](./img/img1.png)
+![image info](./img1.png)
