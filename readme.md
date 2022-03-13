@@ -1,3 +1,3 @@
 ## HTML AND CSS USING ADVENTURE RESPONSIVE WEB DESIGN
 
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+![alt text for screen readers](/img/img1.png "Text to show on mouseover")
