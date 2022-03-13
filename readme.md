@@ -1,3 +1,3 @@
 ## HTML AND CSS USING ADVENTURE RESPONSIVE WEB DESIGN
 
-![image info](img1.png)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
